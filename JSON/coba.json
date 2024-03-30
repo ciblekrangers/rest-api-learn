@@ -1,0 +1,26 @@
+[
+  {
+    "nama": "faisal",
+    "umur": 21,
+    "NIM": 1722012,
+    "kuliah": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "asep",
+      "pembimbing2": "budi",
+      "pembimbing3": "agus"
+    }
+  },
+  {
+    "nama": "asd",
+    "umur": 21,
+    "NIM": 1722212,
+    "kuliah": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "asep",
+      "pembimbing2": "budi",
+      "pembimbing3": "agus"
+    }
+  }
+]
