@@ -22,5 +22,29 @@
       "pembimbing2": "budi",
       "pembimbing3": "agus"
     }
+  },
+  {
+    "nama": "proboro",
+    "umur": 24,
+    "NIM": 3434234,
+    "kuliah": true,
+    "hobby": ["nyapress", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "asep",
+      "pembimbing2": "budi",
+      "pembimbing3": "agus"
+    }
+  },
+  {
+    "nama": "anis",
+    "umur": 24,
+    "NIM": 3434234,
+    "kuliah": true,
+    "hobby": ["nyapress", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "asep",
+      "pembimbing2": "budi",
+      "pembimbing3": "agus"
+    }
   }
 ]
