@@ -16,6 +16,6 @@
 // json.open("GET", "JSON/coba.json", true);
 // json.send();
 
-$.getJSON("JSON/coba.json", function (data) {
+$.getJSON("JSON/Restaurant.json", function (data) {
   console.log(data);
 });

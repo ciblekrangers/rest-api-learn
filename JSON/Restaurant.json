@@ -1,0 +1,133 @@
+
+    {
+        "Restaurant Bisnis": [
+            {
+                "Name" : "Restaurant Cabang Cengkareng",
+                "Foods" :[
+                    {
+                        "Food" : "ayam Geprek",
+                        "Ingridients" : "Chicken",
+                        "Price" : 15000
+                    },
+                    {
+                        "Food" : "ayam Bakar",
+                        "Ingridients" : "Chicken",
+                        "Price" : 11000
+                    },
+                    {
+                        "Food" : "ayam Madu",
+                        "Ingridients" : "Chicken",
+                        "Price" : 13000
+                    },
+                    {
+                        "Food" : "Mie Gacoan",
+                        "Ingridients" : "Noodle",
+                        "Price" : 13000
+                    }
+                ],
+                "Drinks": [
+                    {
+                        "Drink" : "Teh",
+                        "Ingridients" : "Tea",
+                        "Price" : 5000
+                    },
+                    {
+                        "Drink" : "Mocca",
+                        "Ingridients" : "Mocca",
+                        "Price" : 5000
+                    },
+                    {
+                        "Drink" : "Teh",
+                        "Ingridients" : "Equill Water",
+                        "Price" : 99000
+                    }
+                ]
+            },
+            {
+                "Name" : "Restaurant Cabang Bekasi",
+                "Foods" :[
+                    {
+                        "Food" : "ayam Geprek",
+                        "Ingridients" : "Chicken",
+                        "Price" : 1100
+                    },
+                    {
+                        "Food" : "ayam Bakar",
+                        "Ingridients" : "Chicken",
+                        "Price" : 10000
+                    },
+                    {
+                        "Food" : "ayam Madu",
+                        "Ingridients" : "Chicken",
+                        "Price" : 14000
+                    },
+                    {
+                        "Food" : "Mie Gacoan",
+                        "Ingridients" : "Noodle",
+                        "Price" : 13000
+                    }
+                ],
+                "Drinks": [
+                    {
+                        "Drink" : "Teh",
+                        "Ingridients" : "Tea",
+                        "Price" : 5000
+                    },
+                    {
+                        "Drink" : "Mocca",
+                        "Ingridients" : "Mocca",
+                        "Price" : 5000
+                    },
+                    {
+                        "Drink" : "Teh",
+                        "Ingridients" : "Equill Water",
+                        "Price" : 99000
+                    }
+                ]
+            
+            },
+            {
+                "Name" : "Restaurant Cabang Bandung",
+                "Foods" :[
+                    {
+                        "Food" : "ayam Geprek",
+                        "Ingridients" : "Chicken",
+                        "Price" : 14000
+                    },
+                    {
+                        "Food" : "ayam Bakar",
+                        "Ingridients" : "Chicken",
+                        "Price" : 10000
+                    },
+                    {
+                        "Food" : "ayam Madu",
+                        "Ingridients" : "Chicken",
+                        "Price" : 14000
+                    },
+                    {
+                        "Food" : "Mie Gacoan",
+                        "Ingridients" : "Noodle",
+                        "Price" : 13000
+                    }
+                ],
+                "Drinks": [
+                    {
+                        "Drink" : "Teh",
+                        "Ingridients" : "Tea",
+                        "Price" : 5000
+                    },
+                    {
+                        "Drink" : "Mocca",
+                        "Ingridients" : "Mocca",
+                        "Price" : 5000
+                    },
+                    {
+                        "Drink" : "Teh",
+                        "Ingridients" : "Equill Water",
+                        "Price" : 99000
+                    }
+                ]
+            
+            }
+        ]
+    }
