@@ -16,6 +16,7 @@ function tamppilkanSemuaMenu() {
     });
   });
 }
+
 tamppilkanSemuaMenu();
 $(".nav-link").on("click", function () {
   $(".nav-link").removeClass("active");
@@ -27,7 +28,7 @@ $(".nav-link").on("click", function () {
   $("h1").html(category);
   if (category == "All Menu") {
     $("#daftar-menu").html(tamppilkanSemuaMenu());
-    return;
+    return false;
   }
   $.getJSON("data/Restaurant.json", function (data) {
     let menu = data.menu;
